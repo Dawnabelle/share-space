@@ -16,7 +16,7 @@ _This app will showcase the features of a fictional shared workspace_
 
 
 ## Setup/Installation Requirements
-Readme.md is currently available.
+_Please see info.md for client specs_
 
 
 ## Known Bugs
