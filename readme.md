@@ -13,9 +13,11 @@ _This app will showcase the features of a fictional shared workspace_
 
 
 ## Specs
-Mobile Landing Page Sketch
-  <div style="text-align:center"><img src="./img/sharespace-sketch-mobile.jpg" alt="spock with visor" width="300"></div>
+Mobile(small) Landing Page Sketch
+  <div style="text-align:center"><img src="./img/sharespace-sketch-mobile.jpg" alt="spock with visor" width="250"></div>
 
+Tablet(medium) Landing Page Sketch
+    <div style="text-align:center"><img src="./img/sharespace-sketch-tablet.jpg" alt="spock with visor" width="250"></div>
 Color palette
   <div style="text-align:center"><img src="./img/colors.png" alt="spock with visor" width="100"></div>
 
