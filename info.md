@@ -10,15 +10,15 @@
   * 'business' people
   <br>
 
-  * easy to see amenities
+* easy to see amenities
   * on-site coffee counter
   * communal working areas and private offices
   * high-speed internet
   * printing and faxing services
   * Thursday activities
-  * yoga
-  * complementary food
-  * crafting
+    * yoga
+    * complementary food
+    * crafting
   <br>
 
 * space/company to feel:
