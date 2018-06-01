@@ -18,6 +18,12 @@ Mobile(small) Landing Page Sketch
 
 Tablet(medium) Landing Page Sketch
     <div style="text-align:center"><img src="./img/sharespace-sketch-tablet.jpg" alt="spock with visor" width="250"></div>
+
+Desktop(large) Landing Page Sketch
+    <div style="text-align:center">
+      <img src="./img/sharespace-sketch-desktop1.jpg" alt="spock with visor" width="250">
+      <img src="./img/sharespace-desktop2.jpg" alt="spock with visor" width="250"></div>
+
 Color palette
   <div style="text-align:center"><img src="./img/colors.png" alt="spock with visor" width="100"></div>
 
