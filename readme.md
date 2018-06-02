@@ -13,7 +13,7 @@ _This app will showcase the features of a fictional shared workspace_
 
 
 ## Specs
-Mobile(small) Landing Page Sketch
+Mobile(small) Landing Page Sketch and Sketch
   <div style="text-align:center">
   <img src="./img/sharespace-sketch-mobile.jpg" alt="spock with visor" width="250">
   <img src="./img/sharespace-mobile-sketch.png" alt="spock with visor" width="350">
@@ -22,10 +22,15 @@ Mobile(small) Landing Page Sketch
 Tablet(medium) Landing Page Sketch
     <div style="text-align:center"><img src="./img/sharespace-sketch-tablet.jpg" alt="spock with visor" width="250"></div>
 
-Desktop(large) Landing Page Sketch
+Desktop(large) Landing Page Sketch and Sketch
     <div style="text-align:center">
       <img src="./img/sharespace-sketch-desktop1.jpg" alt="spock with visor" width="250">
-      <img src="./img/sharespace-desktop2.jpg" alt="spock with visor" width="250"></div>
+      <img src="./img/sharespace-desktop2.jpg" alt="spock with visor" width="250">
+      <br>
+      <img src="./img/share-desktop1.png" alt="spock with visor" width="250">
+      <img src="./img/share-desktop2.png" alt="spock with visor" width="250">
+      <img src="./img/share-desktop3.png" alt="spock with visor" width="250">
+    </div>
 
 Color palette
   <div style="text-align:center"><img src="./img/colors.png" alt="spock with visor" width="100"></div>
