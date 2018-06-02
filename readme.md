@@ -22,7 +22,7 @@ Mobile(small) Landing Page Sketch and Sketch
 Tablet(medium) Landing Page Sketch and Sketch
     <div style="text-align:center">
     <img src="./img/sharespace-sketch-tablet.jpg" alt="spock with visor" width="250">
-    <img src="./img/sharespace-tablet-sketch.png" alt="spock with visor" width="400"></div>
+    <img src="./img/sharespace-tablet-view.png" alt="spock with visor" width="400"></div>
 
 
 Desktop(large) Landing Page Sketch and Sketch
