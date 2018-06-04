@@ -9,8 +9,8 @@ _UI - Week 2 &amp; 3: Web Design Process - Freelance Co-working Contract_
 _June 1st, 2018_
 
 ### Description
-_This app will showcase the features of a fictional shared workspace_
-_Please see info.md for client specs_
+_This app will showcase the features of a fictional shared workspace_ <br>
+_Please see **info.md** for client specs_
 
 
 ### Specs
