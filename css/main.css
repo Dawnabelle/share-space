@@ -117,8 +117,14 @@ img {
   color: #AE996A;
   font-weight: bold;
   align-items: center;
+  text-align: center;
   display: flex;
   flex-direction: column; }
+
+.thursday {
+  color: #e24e42;
+  font-weight: bold;
+  font-size: 1.1em; }
 
 .image-display {
   background-image: url(".img/meeting-area-small.png");

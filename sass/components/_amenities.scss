@@ -9,7 +9,12 @@
   color: $gold;
   font-weight: bold;
   align-items: center;
-  // text-align: center;
+  text-align: center;
   display: flex;
   flex-direction: column;
+}
+.thursday {
+  color: $hotpink;
+  font-weight: bold;
+  font-size: 1.1em;
 }
