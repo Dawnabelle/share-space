@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, p, ul, li {
+* {
   font-family: "Open Sans", sans-serif; }
 
 p {
@@ -14,9 +14,11 @@ h2 {
   font-size: 2.2em; }
 
 .header {
-  display: flex; }
+  display: flex;
+  flex-direction: column; }
 
 .header-content {
+  background-image: url("./../img/succ-small.jpeg");
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end; }
@@ -44,7 +46,7 @@ h2 {
     font-weight: bold; }
 
 .form-about {
-  background-image: url("./img/building.jpg");
+  background-image: url("./../img/building.jpg");
   background-color: #008F95 40%;
   display: flex; }
 
@@ -65,10 +67,12 @@ h2 {
   color: #fff7f2;
   align-items: center; }
 
-.free-trial {
-  color: #e24e42;
+.free-trial button {
   background-color: #D8D8D8;
-  border: 1px solid #363536; }
+  padding: 10px;
+  border-radius: 2px;
+  border: 1px solid #e24e42;
+  color: #363536; }
 
 .amenities {
   color: #AE996A;

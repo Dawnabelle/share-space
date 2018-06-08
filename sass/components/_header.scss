@@ -4,9 +4,11 @@ $gold: #AE996A;
 
 .header {
   display: flex;
+  flex-direction: column;
 }
 
 .header-content {
+  background-image: url('./../img/succ-small.jpeg');
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end;

@@ -3,7 +3,7 @@ $darkgrey: #363536;
 $hotpink: #e24e42;
 
 .free-trial {
-  color: $hotpink;
-  background-color: $lightgrey;
-  border: 1px solid $darkgrey;
+  button {
+    @include button($lightgrey, $hotpink, $darkgrey);
+  }
 }
