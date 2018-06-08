@@ -5,10 +5,17 @@
 
 .header-content {
   background-image: url('./../img/succ-small.jpeg');
+  background-size: cover;
+  width: 100%;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end;
-    h2 {
+  display: flex;
+    h1 {
+      color: $white;
+      font-weight: bold;
+    }
+    p {
       color: $white;
       font-weight: bold;
     }

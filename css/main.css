@@ -1,5 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Leckerli+One);
 * {
   font-family: "Open Sans", sans-serif; }
+
+body, html {
+  padding: 0;
+  margin: 0; }
 
 p {
   font-size: 12pt; }
@@ -13,16 +19,29 @@ h4 {
 h2 {
   font-size: 2.2em; }
 
+h1 {
+  font-size: 3em;
+  font-family: "Leckerli One", cursive; }
+
+img {
+  width: 100%; }
+
 .header {
   display: flex;
   flex-direction: column; }
 
 .header-content {
   background-image: url("./../img/succ-small.jpeg");
+  background-size: cover;
+  width: 100%;
   flex-direction: column;
   justify-content: space-between;
-  align-items: flex-end; }
-  .header-content h2 {
+  align-items: flex-end;
+  display: flex; }
+  .header-content h1 {
+    color: #fff7f2;
+    font-weight: bold; }
+  .header-content p {
     color: #fff7f2;
     font-weight: bold; }
   .header-content h5 {
