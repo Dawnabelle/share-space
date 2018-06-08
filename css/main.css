@@ -1,0 +1,106 @@
+h1, h2, h3, h4, h5, h6, p, ul, li {
+  font-family: "Open Sans", sans-serif; }
+
+p {
+  font-size: 12pt; }
+
+h5 {
+  font-size: 1.2em; }
+
+h4 {
+  font-size: 1.3em; }
+
+h2 {
+  font-size: 2.2em; }
+
+.header {
+  display: flex; }
+
+.header-content {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end; }
+  .header-content h2 {
+    color: #fff7f2;
+    font-weight: bold; }
+  .header-content h5 {
+    color: #fff7f2;
+    font-style: italic; }
+  .header-content h4 {
+    color: #e24e42;
+    font-weight: bold;
+    align-self: center; }
+
+.essentials-resources {
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  color: #AE996A; }
+  .essentials-resources h4 {
+    color: inherit;
+    font-weight: bold; }
+  .essentials-resources h6 {
+    color: inherit;
+    font-weight: bold; }
+
+.form-about {
+  background-image: url("./img/building.jpg");
+  background-color: #008F95 40%;
+  display: flex; }
+
+.form-container {
+  background-color: #E98000 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #363536; }
+  .form-container input {
+    background-color: #FCF7F7 60%; }
+  .form-container button {
+    align-self: flex-end;
+    background-color: #e24e42 80%; }
+
+.about {
+  background-color: #e24e42 40%;
+  color: #fff7f2;
+  align-items: center; }
+
+.free-trial {
+  color: #e24e42;
+  background-color: #D8D8D8;
+  border: 1px solid #363536; }
+
+.amenities {
+  color: #AE996A;
+  font-weight: bold; }
+
+.image-display {
+  background-image: url(".img/meeting-area-small.png");
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; }
+
+.worker {
+  border: 2px solid #EB6E80;
+  max-width: 110px; }
+
+.coffee {
+  border: 2px solid #E98000;
+  max-width: 87px; }
+
+.lounge {
+  border: 2px solid #e24e42;
+  max-width: 252px; }
+
+.pricing {
+  background-image: url("./img/folks.jpeg");
+  background-size: cover;
+  background-color: white 30%;
+  display: flex; }
+
+.pricing-specs {
+  background-color: #008F95;
+  color: #fff7f2;
+  justify-content: center;
+  align-items: center; }
