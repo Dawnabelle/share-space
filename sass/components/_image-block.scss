@@ -1,17 +1,22 @@
 .image-display {
-  background-image: url('.img/meeting-area-small.png');
+  background-image: url('./../img/circle-small.jpeg');
+  background-size: cover;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
   align-items: center;
+  padding: 60px 0 60px 0;
+
 }
 .worker {
   border: 2px solid $coolpink;
   max-width: 110px;
+  margin-bottom: 40px;
 }
 .coffee {
   border: 2px solid $orange;
   max-width: 87px;
+  margin-bottom: 40px;
 }
 .lounge {
   border: 2px solid $hotpink;
