@@ -1,0 +1,24 @@
+$turquoise: #008F95;
+$orange: #E98000;
+$hotpink: #e24e42;
+$coolpink: #EB6E80;
+
+.image-display {
+  background-image: url('.img/meeting-area-small.png');
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.worker {
+  border: 2px solid $coolpink;
+  max-width: 110px;
+}
+.coffee {
+  border: 2px solid $orange;
+  max-width: 87px;
+}
+.lounge {
+  border: 2px solid $hotpink;
+  max-width: 252px;
+}
