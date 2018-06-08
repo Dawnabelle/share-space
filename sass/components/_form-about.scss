@@ -1,0 +1,31 @@
+$turquoise: #008F95;
+$orange: #E98000;
+$white: #fff7f2;
+$darkgrey: #363536;
+$beige: #FCF7F7;
+$hotpink: #e24e42;
+
+.form-about {
+  background-image: url('./img/building.jpg');
+  background-color: $turquoise 40%;
+  display: flex;
+}
+.form-container {
+  background-color: $orange 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $darkgrey;
+    input {
+      background-color: $beige 60%;
+    }
+    button {
+      align-self: flex-end;
+      background-color: $hotpink 80%;
+    }
+}
+.about {
+  background-color: $hotpink 40%;
+  color: $white;
+  align-items: center;
+}
