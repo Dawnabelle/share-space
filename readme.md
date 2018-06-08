@@ -16,31 +16,32 @@ _Please see **info.md** for client specs_
 ### Specs
 Mobile(small) Landing Page Sketch and Sketch
   <div style="text-align:center">
-  <img src="./img/sharespace-sketch-mobile.jpg" alt="spock with visor" width="250">
-  <img src="./img/sharespace-mobile.png" alt="spock with visor" width="400">
+  <img src="./img/sharespace-sketch-mobile.jpg" alt="share space hand sketch of site at mobile/small size" width="250">
+  <img src="./img/sharespace-mobile.png" alt="share space Sketch of site at mobile/small size" width="300">
   </div>
 
 Tablet(medium) Landing Page Sketch and Sketch
     <div style="text-align:center">
-    <img src="./img/sharespace-sketch-tablet.jpg" alt="spock with visor" width="250">
-    <img src="./img/sharespace-tablet-view.png" alt="spock with visor" width="400"></div>
+    <img src="./img/sharespace-sketch-tablet.jpg" alt="share space hand sketch of site at tablet/medium size" width="250">
+    <img src="./img/sharespace-tablet-view.png" alt="share space Sketch of site at tablet/medium size" width="300"></div>
 
 
 Desktop(large) Landing Page Sketch and Sketch
     <div style="text-align:center">
-      <img src="./img/sharespace-sketch-desktop1.jpg" alt="spock with visor" width="250">
-      <img src="./img/sharespace-desktop2.jpg" alt="spock with visor" width="250">
+      <img src="./img/sharespace-sketch-desktop1.jpg" alt="sshare space hand sketch of site at desktop/large size" width="250">
+      <img src="./img/sharespace-desktop2.jpg" alt="share space hand sketch of site at desktop/large size" width="250">
       <br>
-      <img src="./img/sharespace-desktp2.png" alt="spock with visor" width="250">
-      <img src="./img/sharespace-desktop1.png" alt="spock with visor" width="250">
+      <img src="./img/sharespace-desktp2.png" alt="share space Sketch of site at desktop/large size" width="250">
+      <img src="./img/sharespace-desktop1.png" alt="share space Sketch of site at desktop/large size" width="250">
     </div>
 
 Color palette
-  <div style="text-align:center"><img src="./img/colors.png" alt="spock with visor" width="100"></div>
+  <div style="text-align:center"><img src="./img/colors.png" alt="poppy color palette of reds and greens" width="100"></div>
 
 
 ### Setup/Installation Requirements
-_Clone this repository for readme, info, and images_
+_Clone this repository_
+_Open index.html in browser_
 
 
 ### Known Bugs
@@ -53,7 +54,7 @@ _If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
 
 ### Technologies Used
 
-_HTML, CSS, CSS Grid, Flex Box, JavaScript, Angular, and flattery_
+_HTML, CSS, SASS, Flex Box, and flattery_
 
 <div style="text-align:center"><img src="https://i.gifer.com/HysY.gif" alt="spock with visor" width="300"></div>
 
