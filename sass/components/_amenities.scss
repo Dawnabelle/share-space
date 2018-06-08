@@ -16,6 +16,9 @@
   text-align: center;
   display: flex;
   flex-direction: column;
+    p {
+      font-size: 1.5em;
+    }
 }
 .thursday {
   color: $hotpink;

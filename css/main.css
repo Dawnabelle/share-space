@@ -125,6 +125,8 @@ img {
   text-align: center;
   display: flex;
   flex-direction: column; }
+  .amenities p {
+    font-size: 1.5em; }
 
 .thursday {
   color: #e24e42;
@@ -141,17 +143,17 @@ img {
   padding: 60px 0 60px 0; }
 
 .worker {
-  border: 2px solid #EB6E80;
+  border: 5px solid #EB6E80;
   max-width: 275px;
   margin-bottom: 40px; }
 
 .coffee {
-  border: 2px solid #e98000;
+  border: 5px solid #e98000;
   max-width: 200px;
   margin-bottom: 40px; }
 
 .lounge {
-  border: 2px solid #e24e42;
+  border: 5px solid #e24e42;
   max-width: 400px; }
 
 .pricing {
@@ -159,7 +161,8 @@ img {
   background-size: cover;
   background-color: white 30%;
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  margin-bottom: 30px; }
 
 .pricing-specs {
   background-color: rgba(0, 143, 149, 0.5);
@@ -172,3 +175,37 @@ img {
     font-size: 1.9em; }
   .pricing-specs p {
     font-size: 1.4em; }
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; }
+
+.map {
+  border: 4px solid #e98000; }
+
+.gold {
+  color: #AE996A; }
+
+.food {
+  color: #AE996A;
+  font-weight: bold;
+  font-size: 1.1em; }
+
+.blush {
+  color: #363536; }
+
+.share-space h1 {
+  color: #e24e42;
+  font-family: "Leckerli One", cursive; }
+
+.contact-info {
+  color: #AE996A;
+  font-weight: bold; }
+
+.mustard-exploitation {
+  color: #EB6E80; }
+
+.footer-text {
+  color: #363536; }
