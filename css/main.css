@@ -23,6 +23,9 @@ h1 {
   font-size: 4.5em;
   font-family: "Leckerli One", cursive; }
 
+label {
+  font-size: .8em; }
+
 img {
   width: 100%; }
 
@@ -67,25 +70,36 @@ img {
 
 .form-about {
   background-image: url("./../img/building.jpg");
-  background-color: #008F95 40%;
-  display: flex; }
+  background-size: cover;
+  background-color: rgba(0, 143, 149, 0.5);
+  display: flex;
+  flex-direction: column; }
 
 .form-container {
-  background-color: #E98000 40%;
+  background-color: rgba(233, 128, 0, 0.9);
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 40px;
+  padding: 10px;
   color: #363536; }
   .form-container input {
-    background-color: #FCF7F7 60%; }
+    background-color: rgba(252, 247, 247, 0.5); }
   .form-container button {
     align-self: flex-end;
-    background-color: #e24e42 80%; }
+    background-color: #e24e42; }
 
 .about {
-  background-color: #e24e42 40%;
+  display: flex;
+  background-color: rgba(226, 78, 66, 0.9);
   color: #fff7f2;
-  align-items: center; }
+  align-items: center;
+  padding: 10px;
+  margin: 20px; }
+  .about p {
+    font-size: .7em; }
+  .about br {
+    line-height: 2em; }
 
 .free-trial button {
   background-color: #D8D8D8;
@@ -110,7 +124,7 @@ img {
   max-width: 110px; }
 
 .coffee {
-  border: 2px solid #E98000;
+  border: 2px solid #e98000;
   max-width: 87px; }
 
 .lounge {

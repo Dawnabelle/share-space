@@ -11,6 +11,7 @@ _June 1st, 2018_
 ### Description
 _This app will showcase the features of a fictional shared workspace_ <br>
 _Please see **info.md** for client specs_
+_Please see **research-notes.md** for client specs_
 
 
 ### Specs
@@ -40,8 +41,9 @@ Color palette
 
 
 ### Setup/Installation Requirements
-_Clone this repository_
-_Open index.html in browser_
+* _Clone this repository_
+* _Run npm install_
+* _Open index.html in browser_
 
 
 ### Known Bugs
