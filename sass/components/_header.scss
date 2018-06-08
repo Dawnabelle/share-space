@@ -14,33 +14,33 @@
     h1 {
       color: $white;
       font-weight: bold;
-    }
-    p {
-      color: $white;
-      font-weight: bold;
+      padding-right: 45px;
     }
     h5 {
       color: $white;
-      font-style: italic;
+      font-weight: italic;
+      padding-right: 30px;
     }
     h4 {
       color: $hotpink;
       font-weight: bold;
       align-self: center;
+      padding-left: 200px;
     }
 }
 
 .essentials-resources {
+  display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  text-align: center;
   color: $gold;
     h4 {
       color: inherit;
       font-weight: bold;
     }
-    h6  {
+    p  {
       color: inherit;
-      font-weight: bold;
     }
 }

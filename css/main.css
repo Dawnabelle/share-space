@@ -8,19 +8,19 @@ body, html {
   margin: 0; }
 
 p {
-  font-size: 12pt; }
+  font-size: 10pt; }
 
 h5 {
-  font-size: 1.2em; }
+  font-size: 1.8em; }
 
 h4 {
-  font-size: 1.3em; }
+  font-size: 2.1em; }
 
 h2 {
-  font-size: 2.2em; }
+  font-size: 2.5em; }
 
 h1 {
-  font-size: 3em;
+  font-size: 4.5em;
   font-family: "Leckerli One", cursive; }
 
 img {
@@ -40,29 +40,30 @@ img {
   display: flex; }
   .header-content h1 {
     color: #fff7f2;
-    font-weight: bold; }
-  .header-content p {
-    color: #fff7f2;
-    font-weight: bold; }
+    font-weight: bold;
+    padding-right: 45px; }
   .header-content h5 {
     color: #fff7f2;
-    font-style: italic; }
+    font-weight: italic;
+    padding-right: 30px; }
   .header-content h4 {
     color: #e24e42;
     font-weight: bold;
-    align-self: center; }
+    align-self: center;
+    padding-left: 200px; }
 
 .essentials-resources {
+  display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  text-align: center;
   color: #AE996A; }
   .essentials-resources h4 {
     color: inherit;
     font-weight: bold; }
-  .essentials-resources h6 {
-    color: inherit;
-    font-weight: bold; }
+  .essentials-resources p {
+    color: inherit; }
 
 .form-about {
   background-image: url("./../img/building.jpg");
