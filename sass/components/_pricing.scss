@@ -1,16 +1,22 @@
-$turquoise: #008F95;
-$white: #fff7f2;
-
 .pricing {
-  background-image: url('./img/folks.jpeg');
+  background-image: url('./../img/folks.jpeg');
   background-size: cover;
   background-color: white 30%;
   display: flex;
+  flex-direction: column;
 }
 
 .pricing-specs {
-  background-color: $turquoise;
+  background-color: $turquoise-shear;
   color: $white;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  margin: 70px 150px 70px 150px;
+    h3 {
+      font-size: 1.9em;
+    }
+    p {
+      font-size: 1.4em;
+    }
 }

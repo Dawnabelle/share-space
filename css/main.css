@@ -155,13 +155,20 @@ img {
   max-width: 252px; }
 
 .pricing {
-  background-image: url("./img/folks.jpeg");
+  background-image: url("./../img/folks.jpeg");
   background-size: cover;
   background-color: white 30%;
-  display: flex; }
+  display: flex;
+  flex-direction: column; }
 
 .pricing-specs {
-  background-color: #008F95;
+  background-color: rgba(0, 143, 149, 0.5);
   color: #fff7f2;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  text-align: center;
+  margin: 70px 150px 70px 150px; }
+  .pricing-specs h3 {
+    font-size: 1.9em; }
+  .pricing-specs p {
+    font-size: 1.4em; }
