@@ -108,9 +108,17 @@ img {
   border: 1px solid #e24e42;
   color: #363536; }
 
+.col-align {
+  display: flex;
+  align-items: center;
+  text-align: center; }
+
 .amenities {
   color: #AE996A;
-  font-weight: bold; }
+  font-weight: bold;
+  align-items: center;
+  display: flex;
+  flex-direction: column; }
 
 .image-display {
   background-image: url(".img/meeting-area-small.png");

@@ -1,4 +1,15 @@
+.col-align {
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+}
+
 .amenities {
   color: $gold;
   font-weight: bold;
+  align-items: center;
+  // text-align: center;
+  display: flex;
+  flex-direction: column;
 }
