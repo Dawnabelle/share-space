@@ -1,7 +1,3 @@
-$lightgrey: #D8D8D8;
-$darkgrey: #363536;
-$hotpink: #e24e42;
-
 .free-trial {
   button {
     @include button($lightgrey, $hotpink, $darkgrey);
