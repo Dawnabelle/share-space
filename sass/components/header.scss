@@ -1,22 +1,41 @@
 $white: #fff7f2;
 $coral: #e24e42;
-
-h2 {
-  color: $white;
-  font-weight: bold;
-}
-h5 {
-  color: $white;
-  font-style: italic;
-}
-h4 {
-  color: $color;
-  font-weight: bold;
-}
+$gold: #AE996A;
 
 .header {
   display: flex;
+}
+
+.header-content {
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end;
+    h2 {
+      color: $white;
+      font-weight: bold;
+    }
+    h5 {
+      color: $white;
+      font-style: italic;
+    }
+    h4 {
+      color: $color;
+      font-weight: bold;
+      align-self: center;
+    }
+}
+
+.essentials-resources {
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: $gold;
+    h4 {
+      color: inherit;
+      font-weight: bold;
+    }
+    h6  {
+      color: inherit;
+      font-weight: bold;
+    }
 }
