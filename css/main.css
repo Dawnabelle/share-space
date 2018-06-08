@@ -142,17 +142,17 @@ img {
 
 .worker {
   border: 2px solid #EB6E80;
-  max-width: 110px;
+  max-width: 275px;
   margin-bottom: 40px; }
 
 .coffee {
   border: 2px solid #e98000;
-  max-width: 87px;
+  max-width: 200px;
   margin-bottom: 40px; }
 
 .lounge {
   border: 2px solid #e24e42;
-  max-width: 252px; }
+  max-width: 400px; }
 
 .pricing {
   background-image: url("./../img/folks.jpeg");
