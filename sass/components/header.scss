@@ -1,0 +1,22 @@
+$white: #fff7f2;
+$coral: #e24e42;
+
+h2 {
+  color: $white;
+  font-weight: bold;
+}
+h5 {
+  color: $white;
+  font-style: italic;
+}
+h4 {
+  color: $color;
+  font-weight: bold;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}

@@ -1,9 +1,11 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
+$primary-font: 'Open Sans', sans-serif;
+$secondary-font: 'Arimo', sans-serif;
 
-font-family: 'Open Sans', sans-serif;
-font-family: 'Arimo', sans-serif;
-
+h1,h2,h3,h4,h5,h6,p,ul,li {
+  font-family: $primary-font;
+}
 p {
   font-size: 12pt;
 }
