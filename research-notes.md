@@ -1,5 +1,10 @@
 Research and brainstorm notes
 
+Tablet Sketches
+Tablet(medium) Landing Page Sketch and Sketch
+    <div style="text-align:center">
+    <img src="./img/sharespace-sketch-tablet.jpg" alt="share space hand sketch of site at tablet/medium size" width="250">
+    <img src="./img/sharespace-tablet-view.png" alt="share space Sketch of site at tablet/medium size" width="300"></div>
 
 Local Competition:
 

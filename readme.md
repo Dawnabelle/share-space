@@ -10,31 +10,28 @@ _June 1st, 2018_
 
 ### Description
 _This app will showcase the features of a fictional shared workspace_ <br>
-_Please see **info.md** for client specs_
-_Please see **research-notes.md** for client specs_
+_Please see **info.md** and **research-notes.md** for client specs_
 
 
 ### Specs
-Mobile(small) Landing Page Sketch and Sketch
+Mobile(small) Landing Page Sketch, Sketch, and Screen Shot
   <div style="text-align:center">
   <img src="./img/sharespace-sketch-mobile.jpg" alt="share space hand sketch of site at mobile/small size" width="250">
   <img src="./img/sharespace-mobile.png" alt="share space Sketch of site at mobile/small size" width="300">
+  <img src="./img/mobile.png" alt="screen shot of share space site at mobile/small size" width="300">
   </div>
 
-Tablet(medium) Landing Page Sketch and Sketch
-    <div style="text-align:center">
-    <img src="./img/sharespace-sketch-tablet.jpg" alt="share space hand sketch of site at tablet/medium size" width="250">
-    <img src="./img/sharespace-tablet-view.png" alt="share space Sketch of site at tablet/medium size" width="300"></div>
 
 
-Desktop(large) Landing Page Sketch and Sketch
-    <div style="text-align:center">
-      <img src="./img/sharespace-sketch-desktop1.jpg" alt="sshare space hand sketch of site at desktop/large size" width="250">
-      <img src="./img/sharespace-desktop2.jpg" alt="share space hand sketch of site at desktop/large size" width="250">
-      <br>
-      <img src="./img/sharespace-desktp2.png" alt="share space Sketch of site at desktop/large size" width="250">
-      <img src="./img/sharespace-desktop1.png" alt="share space Sketch of site at desktop/large size" width="250">
-    </div>
+Desktop(large) Landing Page Sketch, Sketch, and Screen Shot
+  <div style="text-align:center">
+    <img src="./img/sharespace-sketch-desktop1.jpg" alt="sshare space hand sketch of site at desktop/large size" width="250">
+    <img src="./img/sharespace-desktop2.jpg" alt="share space hand sketch of site at desktop/large size" width="250">
+    <br>
+    <img src="./img/sharespace-desktp2.png" alt="share space Sketch of site at desktop/large size" width="250">
+    <img src="./img/sharespace-desktop1.png" alt="share space Sketch of site at desktop/large size" width="250">
+    <img src="./img/desktop.png" alt="screen shot of share space site at desktop/large size" width="300">
+  </div>
 
 Color palette
   <div style="text-align:center"><img src="./img/colors.png" alt="poppy color palette of reds and greens" width="100"></div>
