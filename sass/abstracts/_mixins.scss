@@ -1,5 +1,4 @@
-@mixin button($bg-color, $border-color, $text-color) {
-  background-color: $bg-color;
+@mixin button($bg-color:#D8D8D8, $border-color:#363536, $text-color:#363536) {
   padding: 10px;
   border-radius: 2px;
   border: 1px solid $border-color;

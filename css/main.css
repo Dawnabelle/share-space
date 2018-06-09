@@ -35,25 +35,24 @@ img {
 
 .header-content {
   background-image: url("./../img/succ-small.jpeg");
+  padding: 20px;
   background-size: cover;
   width: 100%;
   flex-direction: column;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   display: flex; }
   .header-content h1 {
     color: #fff7f2;
-    font-weight: bold;
-    padding-right: 45px; }
+    font-weight: bold; }
   .header-content h5 {
     color: #fff7f2;
-    font-weight: italic;
-    padding-right: 30px; }
+    font-weight: italic; }
   .header-content h4 {
     color: #e24e42;
     font-weight: bold;
     align-self: center;
-    padding-left: 200px; }
+    padding-left: 30%; }
 
 .essentials-resources {
   display: flex;
@@ -61,12 +60,12 @@ img {
   justify-content: space-around;
   align-items: center;
   text-align: center;
+  padding: 0 80px 0 80px;
   color: #AE996A; }
-  .essentials-resources h4 {
-    color: inherit;
-    font-weight: bold; }
-  .essentials-resources p {
-    color: inherit; }
+
+.bigger {
+  font-size: 1.4em;
+  font-weight: bold; }
 
 .form-about {
   background-image: url("./../img/building.jpg");
@@ -76,34 +75,43 @@ img {
   flex-direction: column; }
 
 .form-container {
-  background-color: rgba(233, 128, 0, 0.9);
+  background-color: rgba(233, 176, 0, 0.9);
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 40px;
+  margin: 100px;
   padding: 10px;
   color: #363536; }
   .form-container input {
     background-color: rgba(252, 247, 247, 0.5);
-    width: 100%; }
+    width: 100%;
+    margin-bottom: 12px; }
   .form-container button {
     align-self: flex-end;
-    background-color: #e24e42; }
+    background-color: #e24e42;
+    font-size: 1.1em;
+    box-shadow: 1px 1px 1px 1px #363536;
+    transition: all 300ms linear; }
+    .form-container button:hover {
+      box-shadow: 3px 4px 3px 2px #363536; }
+
+.form {
+  padding: 20px;
+  min-width: 70%; }
 
 .about {
   display: flex;
   background-color: rgba(226, 78, 66, 0.9);
   color: #fff7f2;
   align-items: center;
-  padding: 10px;
-  margin: 20px; }
+  padding: 20px;
+  margin: 30px; }
   .about p {
-    font-size: .7em; }
+    font-size: .9em; }
   .about br {
     line-height: 2em; }
 
 .free-trial button {
-  background-color: #D8D8D8;
   padding: 10px;
   border-radius: 2px;
   border: 1px solid #e24e42;
@@ -117,6 +125,14 @@ img {
 
 .free-trial {
   margin: 30px 0 30px 0; }
+  .free-trial button {
+    align-self: flex-end;
+    background-color: #D8D8D8;
+    font-size: 1.1em;
+    box-shadow: 1px 1px 1px 1px #363536;
+    transition: all 300ms linear; }
+    .free-trial button:hover {
+      box-shadow: 3px 4px 3px 2px #363536; }
 
 .amenities {
   color: #AE996A;
@@ -145,16 +161,19 @@ img {
 .worker {
   border: 5px solid #EB6E80;
   max-width: 275px;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  box-shadow: 2px 3px 3px 2px #363536; }
 
 .coffee {
   border: 5px solid #e98000;
   max-width: 200px;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+  box-shadow: 2px 3px 3px 2px #363536; }
 
 .lounge {
   border: 5px solid #e24e42;
-  max-width: 400px; }
+  max-width: 400px;
+  box-shadow: 2px 3px 3px 2px #363536; }
 
 .pricing {
   background-image: url("./../img/folks.jpeg");

@@ -5,27 +5,26 @@
 
 .header-content {
   background-image: url('./../img/succ-small.jpeg');
+  padding: 20px;
   background-size: cover;
   width: 100%;
   flex-direction: column;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   display: flex;
     h1 {
       color: $white;
       font-weight: bold;
-      padding-right: 45px;
     }
     h5 {
       color: $white;
       font-weight: italic;
-      padding-right: 30px;
     }
     h4 {
       color: $hotpink;
       font-weight: bold;
       align-self: center;
-      padding-left: 200px;
+      padding-left: 30%;
     }
 }
 
@@ -35,12 +34,10 @@
   justify-content: space-around;
   align-items: center;
   text-align: center;
+  padding: 0 80px 0 80px;
   color: $gold;
-    h4 {
-      color: inherit;
-      font-weight: bold;
-    }
-    p  {
-      color: inherit;
-    }
+}
+.bigger {
+  font-size: 1.4em;
+  font-weight: bold;
 }
