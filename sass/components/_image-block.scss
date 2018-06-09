@@ -6,21 +6,26 @@
   flex-direction: column;
   align-items: center;
   padding: 60px 0 60px 0;
+    img {
+      transition: all 300ms linear;
+      box-shadow: 2px 3px 3px 2px $darkgrey;
+      &:hover {
+        box-shadow: 3px 5px 5px 3px $darkgrey;
+      }
+    }
 }
 .worker {
   border: 5px solid $coolpink;
   max-width: 275px;
   margin-bottom: 40px;
-  box-shadow: 2px 3px 3px 2px $darkgrey;
+
 }
 .coffee {
   border: 5px solid $orange;
   max-width: 200px;
   margin-bottom: 40px;
-  box-shadow: 2px 3px 3px 2px $darkgrey;
 }
 .lounge {
   border: 5px solid $hotpink;
   max-width: 400px;
-  box-shadow: 2px 3px 3px 2px $darkgrey;
 }
