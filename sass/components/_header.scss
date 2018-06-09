@@ -34,9 +34,25 @@
   justify-content: space-around;
   align-items: center;
   text-align: center;
-  padding: 0 80px 0 80px;
+  padding: 0 80px;
   color: $gold;
+    @media only screen and(min-width: 600px) {
+      flex-direction: row;
+      justify-content: space-around;
+    }
+    @media only screen and(min-width: 900px) {
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 0 40px;
+    }
 }
+.essentials {
+  margin-right: 50px;
+    @media only screen and(max-width: 600px) {
+      margin-right: 0;
+    }
+}
+
 .bigger {
   font-size: 1.4em;
   font-weight: bold;
