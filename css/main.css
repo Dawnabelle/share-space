@@ -37,7 +37,6 @@ img {
   background-image: url("./../img/succ-small.jpeg");
   padding: 20px;
   background-size: cover;
-  width: 100%;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -195,7 +194,7 @@ img {
 .pricing {
   background-image: url("./../img/folks.jpeg");
   background-size: cover;
-  background-color: white 30%;
+  background-color: white;
   display: flex;
   flex-direction: column;
   margin-bottom: 30px; }
@@ -206,8 +205,7 @@ img {
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-width: 60%;
-  margin: 70px 150px 70px 150px; }
+  min-width: 300px; }
   .pricing-specs h3 {
     font-size: 1.9em; }
   .pricing-specs p {
@@ -225,6 +223,10 @@ img {
 .gold {
   color: #AE996A; }
 
+@media only screen and (min-width: 600px) {
+  .info p {
+    font-size: 1.5em; } }
+
 .food {
   color: #AE996A;
   font-weight: bold;
@@ -240,6 +242,10 @@ img {
 .contact-info {
   color: #AE996A;
   font-weight: bold; }
+  @media only screen and (min-width: 600px) {
+    .contact-info {
+      font-size: 1.8em;
+      border: 2px solid teal; } }
 
 .mustard-exploitation {
   color: #EB6E80; }

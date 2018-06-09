@@ -1,7 +1,7 @@
 .pricing {
   background-image: url('./../img/folks.jpeg');
   background-size: cover;
-  background-color: white 30%;
+  background-color: white;
   display: flex;
   flex-direction: column;
   margin-bottom: 30px;
@@ -13,8 +13,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-width: 60%;
-  margin: 70px 150px 70px 150px;
+  min-width: 300px;
     h3 {
       font-size: 1.9em;
     }

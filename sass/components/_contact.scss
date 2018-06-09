@@ -10,6 +10,13 @@
 .gold {
   color: $gold;
 }
+@media only screen and(min-width: 600px) {
+  .info {
+      p {
+        font-size: 1.5em;
+      }
+  }
+}
 .food {
   color: $gold;
   font-weight: bold;
@@ -27,6 +34,11 @@
 .contact-info {
   color: $gold;
   font-weight: bold;
+  @media only screen and(min-width: 600px) {
+    p {
+      font-size: 2em;
+      border: 2px solid teal;
+    }
 }
 .mustard-exploitation {
   color: $coolpink;
