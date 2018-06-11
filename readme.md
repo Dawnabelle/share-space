@@ -4,6 +4,7 @@
 
 #### _Epicodus Code Review_
 _UI - Week 2 &amp; 3: Web Design Process - Freelance Co-working Contract_
+View _[Share Space](https://dawnabelle.github.io/share-space/)_ online
 
 ### <span style="color: coral">Dawn Mott</span> :sunrise_over_mountains:
 _June 1st, 2018_
